@@ -30,11 +30,11 @@ client.on('message', message => {
 
 // Ex 5 : Quand un channel est créé, afficher un message dans la console avec le nom du channel créé.
 
-// Ex 6 : Quand un utilisateur est kick, afficher un message dans la console le nom de la personne kick
+// Ex 6 : Quand un utilisateur est banni, afficher un message dans la console le nom de la personne banni
 
-// Ex 7 : Quand un utilisateur est banni, afficher un message dans la console le nom de la personne banni
+// Ex 7 : Quand un utilisateur est dé-banni, afficher un message dans la console avec le nom de la personne dé-banni
 
-// Ex 8 : Quand un utilisateur est dé-banni, afficher un message dans la console avec le nom de la personne dé-banni
+// Ex Bonus : Essayez de gérer autant d'event que possible (Invitations / Roles / Messages / Guild / ...) (cf: discord.js.org/#/docs)
 
 
 client.login(token.token);
