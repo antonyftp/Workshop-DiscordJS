@@ -1,0 +1,6 @@
+{
+    "bot": {
+        "status" : "coder son premier bot discord !",
+        "prefix" : "!"
+    }
+}
