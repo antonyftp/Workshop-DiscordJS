@@ -1,5 +1,24 @@
 {
   "dependencies": {
-    "discord.js": "^12.5.1"
-  }
+    "discord.js": "^12.5.1",
+    "enmap": "^5.8.4"
+  },
+  "name": "workshop-discordjs",
+  "description": "",
+  "version": "1.0.0",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node js/bot.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/antonyftp/Workshop-DiscordJS-Solution.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/antonyftp/Workshop-DiscordJS-Solution/issues"
+  },
+  "homepage": "https://github.com/antonyftp/Workshop-DiscordJS-Solution#readme"
 }
